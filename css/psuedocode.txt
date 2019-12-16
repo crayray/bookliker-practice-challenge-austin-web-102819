@@ -1,0 +1,26 @@
+Create a global variable for the books URL
+
+**Fetch all books from URL**
+    Fetch the books
+    Call the functions to display that data
+
+** Display the list of books** (iteration)
+    Create an LI element
+    Set the li Element equal to books
+    Add an event listener to each LI element
+
+**Clicking a specific book Event Listener**
+    Get the show-panel and set it equal to a variable
+    Create a div that will hold all book content 
+    Create an img element 
+    Set img src equal to the img URL
+    Create a p element
+    Set p element inner text = to desc
+    Create something for user likes
+    create a ul to store users
+    Create a li for each user 
+    Append li to UL. UGH
+    Create a like button (with event listener)
+
+**Like Event Listener"
+    Fetch Patch Request 
